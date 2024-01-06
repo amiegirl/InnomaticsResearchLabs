@@ -1,1 +1,2 @@
-# Movie Data Exploration Hackathon
+# Innomatics Research Labs
+Movie Data Exploration Hackathon
